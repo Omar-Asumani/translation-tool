@@ -489,9 +489,9 @@
   <Section xsi:nil="true" />
   <EN>Your order was successfully created.</EN>
   <DE>Ihr Auftrag wurde erfolgreich ausgeführt </DE>
-  <BG></BG>
-  <FR xsi:nil="true" />
-  <ES xsi:nil="true" />
+  <BG>Поръчката ви беше създадена успешно.</BG>
+  <FR>Votre commande a été créé avec succès.</FR>
+  <ES>Su pedido ha sido creado con éxito.</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>1121</SiteContentId>
@@ -1315,8 +1315,8 @@
   <EN>Contact your administrator to register your account</EN>
   <DE>Kontaktieren Sie Ihren Administrator, um Ihr Konto zu registrieren</DE>
   <BG>Свържете се с Вашия администратор, за да регистрира Вашия акаунт</BG>
-  <FR xsi:nil="true" />
-  <ES xsi:nil="true" />
+  <FR>Contactez votre administrateur pour enregistrer votre compte.</FR>
+  <ES>Póngase en contacto con el administrador para registrar su cuenta.</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>1284</SiteContentId>
