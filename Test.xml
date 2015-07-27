@@ -1304,8 +1304,8 @@
   <EN>Contact your administrator to register your account</EN>
   <DE>Kontaktieren Sie Ihren Administrator, um Ihr Konto zu registrieren</DE>
   <BG>Свържете се с Вашия администратор, за да регистрира Вашия акаунт</BG>
-  <FR xsi:nil="true" />
-  <ES xsi:nil="true" />
+  <FR>Contactez votre administrateur pour enregistrer votre compte.</FR>
+  <ES>Póngase en contacto con el administrador para registrar su cuenta.</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>1284</SiteContentId>
