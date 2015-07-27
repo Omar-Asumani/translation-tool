@@ -478,9 +478,9 @@
   <Section xsi:nil="true" />
   <EN>Your order was successfully created.</EN>
   <DE>Ihr Auftrag wurde erfolgreich ausgeführt </DE>
-  <BG></BG>
-  <FR xsi:nil="true" />
-  <ES xsi:nil="true" />
+  <BG>Поръчката ви беше създадена успешно.</BG>
+  <FR>Votre commande a été créé avec succès.</FR>
+  <ES>Su pedido ha sido creado con éxito.</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>1121</SiteContentId>
