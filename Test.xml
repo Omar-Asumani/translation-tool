@@ -10,6 +10,17 @@
   <ES>Por favor seleccione ...</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SiteContentId>103</SiteContentId>
+  <Name>app.placeholder.pleaseSelect</Name>
+  <Page>shared</Page>
+  <Section xsi:nil="true" />
+  <EN>English is rude.</EN>
+  <DE></DE>
+  <BG></BG>
+  <FR xsi:nil="true" />
+  <ES xsi:nil="true" />
+</Translation>
+<Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>1004</SiteContentId>
   <Name>app.caption.actions</Name>
   <Page>shared</Page>
