@@ -1,11 +1,11 @@
-﻿<Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>1003</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
   <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>Git sucks, a lot</EN>
-  <DE>Bitte wählen ...</DE>
-  <BG>Моля Изберете ...</BG>
+  <DE>Git sucken</DE>
+  <BG>Git ne struva</BG>
   <FR>S'il vous plaît Choisir ...</FR>
   <ES>Por favor seleccione ...</ES>
 </Translation>
