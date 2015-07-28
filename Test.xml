@@ -15,8 +15,13 @@
   <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
+<<<<<<< HEAD
   <DE>100</DE>
   <BG>kila</BG>
+=======
+  <DE>poluchi SMS i</DE>
+  <BG>ti svetna krushkata</BG>
+>>>>>>> origin/master
   <FR>hvhjv</FR>
   <ES xsi:nil="true" />
 </Translation>
