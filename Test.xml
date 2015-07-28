@@ -15,17 +15,10 @@
   <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
-<<<<<<< HEAD
-  <DE>Plovdivski maini</DE>
+  <DE>Burgaski tarikati</DE>
   <BG>v kluba</BG>
-  <FR>hvhjv</FR>
+  <FR>dzak</FR>
   <ES xsi:nil="true" />
-=======
-  <DE>100</DE>
-  <BG>kila</BG>
-  <FR>divak</FR>
-  <ES xsi:nil="true" />
->>>>>>> master
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>104</SiteContentId>
