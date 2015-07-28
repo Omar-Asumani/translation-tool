@@ -13,16 +13,12 @@
   <SiteContentId>103</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
   <Page>shared</Page>
-  <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
-  <EN>English is rude.</EN>
   <DE>Plovdivski maini</DE>
-  <BG>v kluba</BG>
   <BG>Kozche</BG>
   <FR>hvhjv</FR>
   <ES xsi:nil="true" />
-  </Translation>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>104</SiteContentId>
