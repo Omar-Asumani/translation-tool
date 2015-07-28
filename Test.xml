@@ -19,6 +19,7 @@
   <BG>v kluba</BG>
   <FR>hvhjv</FR>
   <ES xsi:nil="true" />
+  </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>104</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
