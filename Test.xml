@@ -14,6 +14,7 @@
   <Name>app.placeholder.pleaseSelect</Name>
   <Page>shared</Page>
   <Section xsi:nil="true" />
+<<<<<<< HEAD
   <EN>English is rude.</EN>
 <<<<<<< HEAD
   <DE>Plovdivski maini</DE>
@@ -24,6 +25,13 @@
   <DE>100</DE>
   <BG>kila</BG>
   <FR>divak</FR>
+  <ES xsi:nil="true" />
+>>>>>>> master
+=======
+  <EN>English is rude.</EN>
+  <DE>Plovdivski maini</DE>
+  <BG>v kluba</BG>
+  <FR>hvhjv</FR>
   <ES xsi:nil="true" />
 >>>>>>> master
 </Translation>
