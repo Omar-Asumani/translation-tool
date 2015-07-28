@@ -12,6 +12,7 @@
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>103</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
+<<<<<<< HEAD
   <Page>shared</Page>
 <<<<<<< HEAD1111211
   <Section xsi:nil="true" />
@@ -20,10 +21,16 @@
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
 >>>>>>> master
+=======
+  <Page>shared</Page>
+  <Section xsi:nil="true" />
+  <EN>English is rude.</EN>
+>>>>>>> master
   <DE>Plovdivski maini</DE>
   <BG>Kozche</BG>
   <FR>hvhjv</FR>
   <ES xsi:nil="true" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======2131
   <DE>100</DE>
@@ -40,6 +47,9 @@
 >>>>>>> master
 </Translation>
 =======213
+>>>>>>> master
+=======
+</Translation>
 >>>>>>> master
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>104</SiteContentId>
