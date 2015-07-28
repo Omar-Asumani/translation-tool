@@ -13,6 +13,7 @@
   <SiteContentId>103</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <Page>shared</Page>
 <<<<<<< HEAD
 <<<<<<< HEAD1111211
@@ -24,18 +25,29 @@
 >>>>>>> master
 =======
   <Section xsi:nil="true" />
+=======
+<<<<<<< HEAD
+  <Page>shared</Page>
+  <Section xsi:nil="true" />
+>>>>>>> master
   <EN>English is rude.</EN>
   <DE>Burgaski tarikati</DE>
   <BG>v kluba</BG>
   <FR>dzak</FR>
   <ES xsi:nil="true" />
 </Translation>
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
 =======
   <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
 =======
 >>>>>>> master
@@ -43,6 +55,7 @@
   <BG>Kozche</BG>
   <FR>hvhjv</FR>
   <ES xsi:nil="true" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -63,6 +76,8 @@
 =======213
 >>>>>>> master
 =======
+=======
+>>>>>>> master
 =======
 >>>>>>> master
 </Translation>
