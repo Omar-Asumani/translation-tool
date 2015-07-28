@@ -18,7 +18,7 @@
   <DE>100</DE>
   <BG>kila</BG>
   <FR>maika</FR>
-  <ES xsi:nil="true" />
+  <ES ebi go />
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>104</SiteContentId>
