@@ -14,6 +14,7 @@
   <Name>app.placeholder.pleaseSelect</Name>
 <<<<<<< HEAD
   <Page>shared</Page>
+<<<<<<< HEAD
 <<<<<<< HEAD1111211
   <Section xsi:nil="true" />
   <EN>Reefer party</EN>
@@ -22,14 +23,27 @@
   <EN>English is rude.</EN>
 >>>>>>> master
 =======
+  <Section xsi:nil="true" />
+  <EN>English is rude.</EN>
+  <DE>Burgaski tarikati</DE>
+  <BG>v kluba</BG>
+  <FR>dzak</FR>
+  <ES xsi:nil="true" />
+</Translation>
+>>>>>>> master
+=======
   <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
   <DE>Plovdivski maini</DE>
   <BG>Kozche</BG>
   <FR>hvhjv</FR>
   <ES xsi:nil="true" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======2131
@@ -49,6 +63,8 @@
 =======213
 >>>>>>> master
 =======
+=======
+>>>>>>> master
 </Translation>
 >>>>>>> master
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
