@@ -3,15 +3,16 @@
   <Name>app.placeholder.pleaseSelect</Name>
   <Page>shared</Page>
   <Section xsi:nil="true" />
-  <EN>Git sucks, a lot</EN>
-  <DE>Git sucken</DE>
-  <BG>Git ne struva</BG>
+  <EN>Hlqb</EN>
+  <DE>za</DE>
+  <BG>ochite</BG>
   <FR>S'il vous plaît Choisir ...</FR>
   <ES>Por favor seleccione ...</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>103</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
+<<<<<<< HEAD
   <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
@@ -20,6 +21,16 @@
   <FR>dzak</FR>
   <ES xsi:nil="true" />
 </Translation>
+=======
+  <Page>shared</Page>
+  <Section xsi:nil="true" />
+  <EN>English is rude.</EN>
+  <DE>Plovdivski maini</DE>
+  <BG>Kozche</BG>
+  <FR>hvhjv</FR>
+  <ES xsi:nil="true" />
+</Translation>
+>>>>>>> master
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>104</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
