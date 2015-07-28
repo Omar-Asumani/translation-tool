@@ -13,12 +13,18 @@
   <SiteContentId>103</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
   <Page>shared</Page>
+<<<<<<< HEAD
   <Section xsi:nil="true" />
   <EN>Reefer party</EN>
+=======
+  <Section xsi:nil="true" />
+  <EN>English is rude.</EN>
+>>>>>>> master
   <DE>Plovdivski maini</DE>
   <BG>Kozche</BG>
   <FR>hvhjv</FR>
   <ES xsi:nil="true" />
+<<<<<<< HEAD
 =======
   <DE>100</DE>
   <BG>kila</BG>
@@ -33,6 +39,8 @@
   <ES xsi:nil="true" />
 >>>>>>> master
 </Translation>
+=======
+>>>>>>> master
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>104</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
