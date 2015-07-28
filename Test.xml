@@ -16,15 +16,9 @@
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
   <DE>100</DE>
-<<<<<<< HEAD
   <BG>kila</BG>
   <FR>divak</FR>
   <ES xsi:nil="true" />
-=======
-  <BG>kila</BG>
-  <FR>maika</FR>
-  <ES ebi go />
->>>>>>> origin/master
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>104</SiteContentId>
