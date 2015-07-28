@@ -10,27 +10,16 @@
   <ES>Por favor seleccione ...</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SiteContentId>103</SiteContentId>
+  <SiteContentId>1.4</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
-<<<<<<< HEAD
   <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
-  <DE>Burgaski tarikati</DE>
+  <DE>Mohombi</DE>
   <BG>v kluba</BG>
   <FR>dzak</FR>
   <ES xsi:nil="true" />
 </Translation>
-=======
-  <Page>shared</Page>
-  <Section xsi:nil="true" />
-  <EN>English is rude.</EN>
-  <DE>Plovdivski maini</DE>
-  <BG>Kozche</BG>
-  <FR>hvhjv</FR>
-  <ES xsi:nil="true" />
-</Translation>
->>>>>>> master
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>104</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
