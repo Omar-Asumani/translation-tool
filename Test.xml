@@ -16,8 +16,8 @@
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
   <DE>Mohombi</DE>
-  <BG>v kluba</BG>
-  <FR>dzak</FR>
+  <BG xsi:nil="true" />
+  <FR xsi:nil="true" />
   <ES xsi:nil="true" />
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
