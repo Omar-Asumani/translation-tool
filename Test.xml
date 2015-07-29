@@ -10,13 +10,13 @@
   <ES>Por favor seleccione ...</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SiteContentId>1.4</SiteContentId>
+  <SiteContentId>1.5</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
   <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
-  <DE>German is AWFUL !</DE>
-  <BG></BG>
+  <DE>German is nice</DE>
+  <BG xsi:nil="true" />
   <FR xsi:nil="true" />
   <ES xsi:nil="true" />
 </Translation>
