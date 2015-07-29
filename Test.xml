@@ -10,12 +10,12 @@
   <ES>Por favor seleccione ...</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SiteContentId>1.5</SiteContentId>
+  <SiteContentId>1.6</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
   <Page>shared</Page>
   <Section xsi:nil="true" />
   <EN>English is rude.</EN>
-  <DE>German is nice</DE>
+  <DE>German is AWFUL !</DE>
   <BG xsi:nil="true" />
   <FR xsi:nil="true" />
   <ES xsi:nil="true" />
@@ -50,17 +50,6 @@
   <EN>Action</EN>
   <DE>Aktion</DE>
   <BG>Ne bash deistvie</BG>
-  <FR>Action</FR>
-  <ES>Acción</ES>
-</Translation>
-<Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SiteContentId>1.5</SiteContentId>
-  <Name>app.caption.action</Name>
-  <Page>shared</Page>
-  <Section xsi:nil="true" />
-  <EN>Action</EN>
-  <DE>Aktion</DE>
-  <BG>Действие</BG>
   <FR>Action</FR>
   <ES>Acción</ES>
 </Translation>
