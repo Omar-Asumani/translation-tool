@@ -54,6 +54,17 @@
   <ES>Acción</ES>
 </Translation>
 <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SiteContentId>1.5</SiteContentId>
+  <Name>app.caption.action</Name>
+  <Page>shared</Page>
+  <Section xsi:nil="true" />
+  <EN>Action</EN>
+  <DE>Aktion</DE>
+  <BG>Действие</BG>
+  <FR>Action</FR>
+  <ES>Acción</ES>
+</Translation>
+<Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>1006</SiteContentId>
   <Name>app.caption.edit</Name>
   <Page>shared</Page>
