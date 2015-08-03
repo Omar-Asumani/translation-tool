@@ -1,4 +1,5 @@
-﻿<Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Translations>
+<Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SiteContentId>1003</SiteContentId>
   <Name>app.placeholder.pleaseSelect</Name>
   <EN>Please Select...</EN>
@@ -16100,3 +16101,4 @@
   <FR></FR>
   <ES></ES>
 </Translation>
+</Translations>
