@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Translations>
 	<Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<SiteContentId>1003</SiteContentId>
@@ -14,7 +13,7 @@
 		<Name>app.caption.actions</Name>
 		<EN>Actions</EN>
 		<DE>Aktionen</DE>
-		<BG>Действия</BG>
+		<BG>Действияяяяя</BG>
 		<FR>Actions</FR>
 		<ES>Acciones</ES>
 	</Translation>
