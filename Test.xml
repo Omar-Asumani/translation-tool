@@ -1,21 +1,21 @@
-﻿<Translations>
+<Translations>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1003</SiteContentId>
     <Name>app.placeholder.pleaseSelect</Name>
     <EN>Evala</EN>
-    <DE>batka</DE>
-    <BG>ttt</BG>
-    <FR />
-    <ES />
+    <DE>Evalarkata</DE>
+    <BG>Evalarken</BG>
+    <FR>Evalieu</FR>
+    <ES>mastermind</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1004</SiteContentId>
     <Name>app.caption.actions</Name>
     <EN>Actions</EN>
-    <DE>aaa</DE>
+    <DE>Aktions</DE>
     <BG>Действия</BG>
     <FR>Actions</FR>
-    <ES>22</ES>
+    <ES>77711</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1005</SiteContentId>
@@ -33,7 +33,7 @@
     <DE>Bearbeiten</DE>
     <BG>Редакция</BG>
     <FR>Modifier</FR>
-    <ES>Edit</ES>
+    <ES>Editt</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1007</SiteContentId>
@@ -42,7 +42,7 @@
     <DE>Löschen</DE>
     <BG>Изтриване</BG>
     <FR>Supprimer</FR>
-    <ES>Eliminar</ES>
+    <ES>Eliminarr</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1008</SiteContentId>
