@@ -4,9 +4,15 @@
     <Name>app.placeholder.pleaseSelect</Name>
     <EN>Evala</EN>
     <DE>Evalarkata</DE>
+<<<<<<< HEAD
     <BG>Evalarken</BG>
     <FR>Evaliue12345</FR>
     <ES>asdfsadf</ES>
+=======
+    <BG>Evalarken</BG>
+    <FR>Evaliue098756</FR>
+    <ES />
+>>>>>>> master
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1004</SiteContentId>
