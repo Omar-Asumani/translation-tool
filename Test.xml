@@ -1,10 +1,10 @@
-<Translations>
+﻿<Translations>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1003</SiteContentId>
     <Name>app.placeholder.pleaseSelect</Name>
     <EN>Evala</EN>
     <DE>Evalarkata</DE>
-    <BG>Евала</BG>
+    <BG>Евалаа</BG>
     <FR />
     <ES />
   </Translation>
