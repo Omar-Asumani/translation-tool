@@ -1,4 +1,4 @@
-﻿<Translations>
+<Translations>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1003</SiteContentId>
     <Name>app.placeholder.pleaseSelect</Name>
@@ -15,7 +15,7 @@
     <DE>Aktions</DE>
     <BG>Действияяя</BG>
     <FR>Actions</FR>
-    <ES>77711</ES>
+    <ES>4</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1005</SiteContentId>
@@ -33,12 +33,12 @@
     <DE>Bearbeiten</DE>
     <BG>Редакцияяя</BG>
     <FR>Modifier</FR>
-    <ES>Editt</ES>
+    <ES />
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1007</SiteContentId>
     <Name>app.caption.delete</Name>
-    <EN>Delete</EN>
+    <EN>Del</EN>
     <DE>Löschen</DE>
     <BG>Изтриване</BG>
     <FR>Supprimer</FR>
@@ -67,8 +67,8 @@
     <Name>app.caption.addNew</Name>
     <EN>Add New</EN>
     <DE>Neu hinzufügen</DE>
-    <BG>Добави ново</BG>
-    <FR>Ajouter un nouveau</FR>
+    <BG>Добави</BG>
+    <FR />
     <ES>Crear Nuevo</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
