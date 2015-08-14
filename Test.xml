@@ -4,7 +4,7 @@
     <Name>app.placeholder.pleaseSelect</Name>
     <EN>Evala</EN>
     <DE>Evalarkata</DE>
-    <BG>Евала</BG>
+    <BG>Евалаа</BG>
     <FR />
     <ES />
   </Translation>
@@ -15,7 +15,7 @@
     <DE>Aktions</DE>
     <BG>Действияяя</BG>
     <FR>Actions</FR>
-    <ES>4</ES>
+    <ES>Accion</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1005</SiteContentId>
@@ -51,7 +51,7 @@
     <DE>Entfernen</DE>
     <BG>Извадете</BG>
     <FR>Retirez</FR>
-    <ES>Reti</ES>
+    <ES />
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1009</SiteContentId>
