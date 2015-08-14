@@ -1,4 +1,4 @@
-<Translations>
+﻿<Translations>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1003</SiteContentId>
     <Name>app.placeholder.pleaseSelect</Name>
@@ -15,7 +15,7 @@
     <DE>Aktions</DE>
     <BG>Действияяя</BG>
     <FR>Actions</FR>
-    <ES>Accion</ES>
+    <ES>Accionn</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1005</SiteContentId>
