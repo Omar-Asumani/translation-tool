@@ -1,4 +1,4 @@
-﻿<Translations>
+<Translations>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1003</SiteContentId>
     <Name>app.placeholder.pleaseSelect</Name>
@@ -6,7 +6,7 @@
     <DE>Evalarkata</DE>
     <BG>Евала</BG>
     <FR>Evalata</FR>
-    <ES />
+    <ES>Evalata</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1004</SiteContentId>
@@ -24,7 +24,7 @@
     <DE>Aktion</DE>
     <BG>Действие</BG>
     <FR>uu</FR>
-    <ES />
+    <ES>Acción</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1006</SiteContentId>
@@ -33,7 +33,7 @@
     <DE>Bearbeiten</DE>
     <BG>Редакцияяя</BG>
     <FR>Modifier</FR>
-    <ES />
+    <ES>Modificar</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1007</SiteContentId>
@@ -42,7 +42,7 @@
     <DE>Löschen</DE>
     <BG>Изтриване</BG>
     <FR>Supprimer</FR>
-    <ES>Eliminarr</ES>
+    <ES>Eliminar</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1008</SiteContentId>
@@ -51,7 +51,7 @@
     <DE>Entfernen</DE>
     <BG>Извадете</BG>
     <FR>Retirez</FR>
-    <ES />
+    <ES>2</ES>
   </Translation>
   <Translation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <SiteContentId>1009</SiteContentId>
